@@ -9,7 +9,13 @@ This list of shortcuts is available in eclipse menu as below:
 
 ## How install?
 
-Import the eclipse-support as Maven Project in eclipse
+*	clone this repository
+	
+	git clone https://github.com/jonyfs/eclipse-support.git
+	
+*	Import the eclipse-support as Maven Project in eclipse
+
+![Import as Maven Project](import_maven_project.png "Import as Maven Project") 
 
 ## How use?
 
